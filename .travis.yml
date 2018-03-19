@@ -42,7 +42,6 @@ env:
 # https://docs.travis-ci.com/user/notifications/
 notifications:
   email:
-    - 1147727180@qq.com
-    - mtianyan@outlook.com
+    - qiangqiang251@163.com
   on_success: change
   on_failure: always
